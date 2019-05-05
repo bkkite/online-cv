@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: vicente22@gmail.com
     phone: +34 644 299 804
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: #do not add http://
+    linkedin: vicenteVP
     github: bkkite
     gitlab:
     bitbucket:
@@ -50,13 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Always on edge of technologies. Learning, developing and building.
 
 education:
     - degree: Final degree project
@@ -64,7 +58,7 @@ education:
       time: 2001 - 2002
       details: 
         
-    - degree: BSc in Applied Mathematics
+    - degree: Computer Science Engineering
       university: UA - University of Alicante
       time: 1994 - 2001
       details: 
