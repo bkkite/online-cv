@@ -78,6 +78,7 @@ experiences:
              - Unity
 
         Descktop CAD programs, [CYPELECT](https://bimserver.center/en/store/cypelec_rebt), [HVAC](https://bimserver.center/en/store/cypetherm_hvac) and [Health & Safety](https://bimserver.center/en/store/open_bim_health_and_safety)
+             
              - C
              - VSC	
 
@@ -96,14 +97,14 @@ projects:
     intro: |
       Brief list of freelance projects and other projects that I have developed in my free time to try and learn
       different technologies
-        
-        - Java
-        - RubyRails
-        - JavaScript
-        - Nginx
-        - Redis
-        - Blockchain
-        - Torrents
+
+           - Java
+           - RubyRails
+           - JavaScript
+           - Nginx
+           - Redis
+           - Blockchain
+           - Torrents
 
     assignments:
 
