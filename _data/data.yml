@@ -68,16 +68,18 @@ experiences:
       time: 2014 - Present
       company: CYPE Ingenieros, Alicante, Spain
       details: |
-         <a href="https://bimserver.center/en/mobile_apps">Mobile Android/IOS</a> apps to interact with <a href="https://bimserver.center">BIMserver.center</a>
-                º Java
-                º Swift
-                º Git/TFS
-                º ARCore
-                º ArKit
-                º Unity
-         Descktop CAD programs. <a href="https://bimserver.center/en/store/cypelec_rebt">CYPELECT</a>, <a href="https://bimserver.center/en/store/cypetherm_hvac">HVAC</a>, <a href="https://bimserver.center/en/store/open_bim_health_and_safety">Health & Safety.</a>
-                º C
-                º VSC	
+	[Mobile Android/IOS](https://bimserver.center/en/mobile_apps) apps to interact with [BIMserver.center](https://bimserver.center)
+
+             - Java
+             - Swift
+             - Git/TFS
+             - ARCore
+             - ArKit
+             - Unity
+         
+        Descktop CAD programs, [CYPELECT](https://bimserver.center/en/store/cypelec_rebt), [HVAC](https://bimserver.center/en/store/cypetherm_hvac) and [Health & Safety.](https://bimserver.center/en/store/open_bim_health_and_safety)
+             - C
+             - VSC	
         
     - role: Senior Software Engineer
       time: 2007 - 2014
