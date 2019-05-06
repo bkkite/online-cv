@@ -108,23 +108,23 @@ projects:
     assignments:
 
       - title: Desktop App (@Freelance)
-        link: "#"
+        link: 
         tagline: "Desktop app to setup/launch/control cluster process of forecast MM5. #java, #MM5, #eclipse"
 
       - title: Desktop App (@Freelance)
-        link: "#"
+        link: 
         tagline: "Desktop app to control fluoroscope's images  #java, #eclipse"
 
       - title: butter-android (@gitgub)
-        link: "<a href='https://github.com/bkkite/butter-android'>butter-android</a>﻿"
+        link: "[butter-android](https://github.com/bkkite/butter-android)"
         tagline: "All the cool technical bits of what used to be Popcorn Time for Android"
 
       - title: PeatioCryptoExchange (@gitgub)
-        link: "<a href='https://github.com/bkkite/PeatioCryptoExchange'>PeatioCryptoExchange</a>﻿"
+        link: "[PeatioCryptoExchange](https://github.com/bkkite/PeatioCryptoExchange)﻿"
         tagline: "Crypto Exchange project to generate a personal excange pair BTC/Roto2"
 
       - title: Roto2PoolSSL (@gitgub)
-        link: "<a href='https://github.com/bkkite/Roto2PoolSSL'>Pool</a>﻿"
+        link: "[Pool](https://github.com/bkkite/Roto2PoolSSL)"
         tagline: "Mining pool for Roto2Coin"
 
 publications:
