@@ -68,19 +68,16 @@ experiences:
       time: 2014 - Present
       company: CYPE Ingenieros, Alicante, Spain
       details: |
-	<a href="https://bimserver.center/en/mobile_apps">Mobile Android/IOS</a> apps to interact with <a href="https://bimserver.center">BIMserver.center</a>
-		
-		º Java
-		º Swift
-		º Git/TFS
-		º ARCore
-		º ArKit
-		º Unity
-
-	Descktop CAD programs. <a href="https://bimserver.center/en/store/cypelec_rebt">CYPELECT</a>, <a href="https://bimserver.center/en/store/cypetherm_hvac">HVAC</a>, <a href="https://bimserver.center/en/store/open_bim_health_and_safety">Health & Safety.</a>
-		
-		º C
-		º VSC	
+         <a href="https://bimserver.center/en/mobile_apps">Mobile Android/IOS</a> apps to interact with <a href="https://bimserver.center">BIMserver.center</a>
+                º Java
+                º Swift
+                º Git/TFS
+                º ARCore
+                º ArKit
+                º Unity
+         Descktop CAD programs. <a href="https://bimserver.center/en/store/cypelec_rebt">CYPELECT</a>, <a href="https://bimserver.center/en/store/cypetherm_hvac">HVAC</a>, <a href="https://bimserver.center/en/store/open_bim_health_and_safety">Health & Safety.</a>
+                º C
+                º VSC	
         
     - role: Senior Software Engineer
       time: 2007 - 2014
@@ -98,12 +95,12 @@ projects:
       Brief list of freelance projects and other projects that I have developed in my free time to try and learn
       different technologies.
         - Java
-	- RubyRails
-   	- JavaScript
-	- Nginx
-	- Redis
-	- Blockchain
-	- Torrents 
+        - RubyRails
+        - JavaScript
+        - Nginx
+        - Redis
+        - Blockchain
+        - Torrents 
 
     assignments:
 
