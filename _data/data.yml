@@ -90,13 +90,12 @@ experiences:
     - role: Junior developer
       time: 2003 - 2007
       company: CYPE Ingenieros, Alicante, Spain
-      details: | 
+      details:  
 
 projects:
     title: Projects
     intro: |
-      Brief list of freelance projects and other projects that I have developed in my free time to try and learn
-      different technologies
+      Brief list of freelance projects and other projects that I have developed in my free time to try and learn different technologies
 
            - Java
            - RubyRails
@@ -116,16 +115,16 @@ projects:
         link: 
         tagline: "Desktop app to control fluoroscope's images  #java, #eclipse"
 
-      - title: butter-android (@gitgub)
-        link: "[butter-android](https://github.com/bkkite/butter-android)"
+      - title: butter-android [@gitgub](https://github.com/bkkite/butter-android)
+        link: 
         tagline: "All the cool technical bits of what used to be Popcorn Time for Android"
 
-      - title: PeatioCryptoExchange (@gitgub)
-        link: "[PeatioCryptoExchange](https://github.com/bkkite/PeatioCryptoExchange)﻿"
+      - title: PeatioCryptoExchange [@gitgub](https://github.com/bkkite/PeatioCryptoExchange)
+        link: 
         tagline: "Crypto Exchange project to generate a personal excange pair BTC/Roto2"
 
-      - title: Roto2PoolSSL (@gitgub)
-        link: "[Pool](https://github.com/bkkite/Roto2PoolSSL)"
+      - title: Roto2PoolSSL [@gitgub](https://github.com/bkkite/Roto2PoolSSL)
+        link: 
         tagline: "Mining pool for Roto2Coin"
 
 publications:
