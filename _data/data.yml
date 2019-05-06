@@ -84,7 +84,7 @@ experiences:
     - role: Senior Software Engineer
       time: 2007 - 2014
       company: CYPE Ingenieros, Alicante, Spain
-      details: |
+      details: 
          
     - role: Junior developer
       time: 2003 - 2007
@@ -93,16 +93,17 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
+    intro: |
       Brief list of freelance projects and other projects that I have developed in my free time to try and learn
       different technologies.
+        
         - Java
         - RubyRails
         - JavaScript
         - Nginx
         - Redis
         - Blockchain
-        - Torrents 
+        - Torrents
 
     assignments:
 
@@ -115,15 +116,15 @@ projects:
         tagline: "Desktop app to control fluoroscope's images  #java, #eclipse"
 
       - title: butter-android (@gitgub)
-        link: "<a href="https://github.com/bkkite/butter-android">butter-android</a>﻿"
+        link: "<a href='https://github.com/bkkite/butter-android'>butter-android</a>﻿"
         tagline: "All the cool technical bits of what used to be Popcorn Time for Android"
 
       - title: PeatioCryptoExchange (@gitgub)
-        link: "<a href="https://github.com/bkkite/PeatioCryptoExchange">PeatioCryptoExchange</a>﻿"
+        link: "<a href='https://github.com/bkkite/PeatioCryptoExchange'>PeatioCryptoExchange</a>﻿"
         tagline: "Crypto Exchange project to generate a personal excange pair BTC/Roto2"
 
       - title: Roto2PoolSSL (@gitgub)
-        link: "<a href="https://github.com/bkkite/Roto2PoolSSL>Pool</a>﻿"
+        link: "<a href='https://github.com/bkkite/Roto2PoolSSL'>Pool</a>﻿"
         tagline: "Mining pool for Roto2Coin"
 
 publications:
