@@ -102,7 +102,7 @@ projects:
       Brief list of freelance projects and other projects that I have developed in my free time to try and learn different technologies
 
            - Java
-           - RubyRails
+           - Ruby on Rails
            - JavaScript
            - Nginx
            - Redis
@@ -188,7 +188,7 @@ skills:
       - name: Redis
         level: 20%
 
-      - name: Ryby Rails
+      - name: Ruby on Rails
         level: 20%
 
 footer:
